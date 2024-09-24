@@ -46,7 +46,6 @@ This project utilizes historical delivery data to build a predictive model that:
 
 ## Results and Impact
 
-(Add a summary of your model's performance and potential impact once you've completed the project)
 
 ## Future Enhancements
 
